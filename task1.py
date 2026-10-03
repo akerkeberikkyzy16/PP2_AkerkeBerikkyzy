@@ -39,11 +39,11 @@ x=None #NoneType
 
 b = "Hello, World!"
 print(b[2:5])
-print(a.upper())
-print(a.lower())
-print(a.strip())
-print(a.replace("H", "J"))
-print(a.split(","))
+print(b.upper())
+print(b.lower())
+print(b.strip())
+print(b.replace("H", "J"))
+print(b.split(","))
 
 age = 36
 txt = f"My name is John, I am {age}"

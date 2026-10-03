@@ -213,47 +213,6 @@ print(result)
 
 
 
-# 8. SWITCH / IF ELIF ELSE
-
-
-
-
-day = 1
-
-match day:
-    case 1:
-        print("Monday")
-    case 2:
-        print("Tuesday")
-    case 3:
-        print("Wednesday")
-    case _:
-        print("Unknown day")
-
-
-operation = "+"
-
-match operation:
-    case "+":
-        print("Addition")
-    case "-":
-        print("Subtraction")
-    case "*":
-        print("Multiplication")
-    case "/":
-        print("Division")
-
-
-light = "red"
-
-match light:
-    case "red":
-        print("Stop")
-    case "yellow":
-        print("Wait")
-    case "green":
-        print("Go")
-
 
 # IF / ELIF / ELSE version
 
