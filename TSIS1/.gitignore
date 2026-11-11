@@ -1,0 +1,10 @@
+# Database credentials
+config.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Personal contact data
+contacts.json
+contacts.csv
